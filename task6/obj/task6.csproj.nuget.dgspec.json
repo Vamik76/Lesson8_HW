@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DNS\\Desktop\\Мерц\\Geek\\Lesson8_HW\\task5\\task5.csproj": {}
+    "C:\\Users\\DNS\\Desktop\\Мерц\\Geek\\Lesson8_HW\\task6\\task6.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DNS\\Desktop\\Мерц\\Geek\\Lesson8_HW\\task5\\task5.csproj": {
+    "C:\\Users\\DNS\\Desktop\\Мерц\\Geek\\Lesson8_HW\\task6\\task6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DNS\\Desktop\\Мерц\\Geek\\Lesson8_HW\\task5\\task5.csproj",
-        "projectName": "task5",
-        "projectPath": "c:\\Users\\DNS\\Desktop\\Мерц\\Geek\\Lesson8_HW\\task5\\task5.csproj",
+        "projectUniqueName": "C:\\Users\\DNS\\Desktop\\Мерц\\Geek\\Lesson8_HW\\task6\\task6.csproj",
+        "projectName": "task6",
+        "projectPath": "C:\\Users\\DNS\\Desktop\\Мерц\\Geek\\Lesson8_HW\\task6\\task6.csproj",
         "packagesPath": "C:\\Users\\DNS\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DNS\\Desktop\\Мерц\\Geek\\Lesson8_HW\\task5\\obj\\",
+        "outputPath": "C:\\Users\\DNS\\Desktop\\Мерц\\Geek\\Lesson8_HW\\task6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DNS\\AppData\\Roaming\\NuGet\\NuGet.Config"
